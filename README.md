@@ -49,14 +49,6 @@ Pemeliharaan proyek ini melibatkan perawatan sensor suhu dan kelembaban secara b
 
 Saya sangat antusias untuk memulai perjalanan dalam dunia pengembangan teknologi. Saya berharap dapat terus belajar, berkontribusi, dan tumbuh dalam industri ini.
 
-📧 Hubungi Saya: 
-
-Linkedin : www.linkedin.com/in/cholint
-
-Email : cholintmanuel@gmail.com
-
-Phone : +62 81931281806
-
 Saya terbuka untuk belajar dari mereka yang telah berpengalaman dan siap untuk menciptakan perubahan positif melalui pengetahuan dan semangat saya.
 
 #freshgrad #techevolution
